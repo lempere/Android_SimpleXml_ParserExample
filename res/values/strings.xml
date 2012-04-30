@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Esto es una app de prueba sobre la librería simplexml. Puedes encontrar más información y ejemplos en www.androidconnect.org .  </string>
+    <string name="app_name">SimpleXml_Example</string>
+
+</resources>
